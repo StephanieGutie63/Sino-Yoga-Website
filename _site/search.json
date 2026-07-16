@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SinoYoga Newsletter",
+    "section": "",
+    "text": "&lt;link rel=“preconnect” href=“https://fonts.googleapis.com”&gt; &lt;link rel=“preconnect” href=“https://fonts.gstatic.com” crossorigin&gt; &lt;link href=“https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap” rel=“stylesheet”&gt;\n&lt;div class=“newsletter”&gt; &lt;div class=“icon-header”&gt; &lt;div class=“icon-circle”&gt;✉&lt;/div&gt; &lt;div class=“icon-text”&gt; &lt;h2&gt;Sign up for our Monthly Newsletter&lt;/h2&gt; &lt;p&gt;Get wellness tips, exclusive content, video updates, and special offers.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt;\n&lt;form id=“newsletterform”&gt; &lt;label&gt;Full Name&lt;span class=“required”&gt;*&lt;/span&gt;&lt;/label&gt; &lt;input name=“fullName” type=“text” placeholder=“Enter your Full Name” required&gt;\n&lt;label&gt;Email&lt;span class=“required”&gt;*&lt;/span&gt;&lt;/label&gt; &lt;input name=“email” type=“email” placeholder=“Enter your Email” required&gt;\n&lt;div class=“form-row”&gt; &lt;div&gt; &lt;label&gt;Preferred Language&lt;span class=“required”&gt;*&lt;/span&gt;&lt;/label&gt; &lt;select name=“language” required&gt; &lt;option value=““&gt;Select language&lt;/option&gt; &lt;option&gt;English&lt;/option&gt; &lt;option&gt;Chinese&lt;/option&gt; &lt;/select&gt; &lt;/div&gt;\n&lt;div&gt; &lt;label&gt;Age&lt;span class=“required”&gt;*&lt;/span&gt;&lt;/label&gt; &lt;select name=“age” required&gt; &lt;option value=““&gt;Select age range&lt;/option&gt; &lt;option&gt;Under 18&lt;/option&gt; &lt;option&gt;18-24&lt;/option&gt; &lt;option&gt;25-34&lt;/option&gt; &lt;option&gt;35-44&lt;/option&gt; &lt;option&gt;45+&lt;/option&gt; &lt;/select&gt; &lt;/div&gt; &lt;/div&gt;\n&lt;div class=“form-row”&gt; &lt;div&gt; &lt;label&gt;Gender&lt;span class=“required”&gt;*&lt;/span&gt;&lt;/label&gt; &lt;select name=“gender” required&gt; &lt;option value=““&gt;Select gender&lt;/option&gt; &lt;option&gt;Female&lt;/option&gt; &lt;option&gt;Male&lt;/option&gt; &lt;option&gt;Other&lt;/option&gt; &lt;option&gt;Prefer not to say&lt;/option&gt; &lt;/select&gt; &lt;/div&gt;\n&lt;div&gt; &lt;label&gt;Yoga Experience&lt;span class=“required”&gt;*&lt;/span&gt;&lt;/label&gt; &lt;select name=“experience” required&gt; &lt;option value=““&gt;Select your level&lt;/option&gt; &lt;option&gt;Beginner&lt;/option&gt; &lt;option&gt;Intermediate&lt;/option&gt; &lt;option&gt;Advanced&lt;/option&gt; &lt;/select&gt; &lt;/div&gt; &lt;/div&gt;\n&lt;div class=“membership-field”&gt; &lt;label&gt;Are you interested in our YouTube Membership?&lt;span class=“required”&gt;*&lt;/span&gt;&lt;/label&gt; &lt;select name=“membership” required&gt; &lt;option value=““&gt;Membership&lt;/option&gt; &lt;option value=”yes”&gt;Yes&lt;/option&gt; &lt;option value=“no”&gt;No&lt;/option&gt; &lt;option value=“maybe”&gt;Maybe&lt;/option&gt; &lt;/select&gt; &lt;/div&gt;"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
