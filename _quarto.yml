@@ -2,25 +2,11 @@ project:
   type: website
 
 website:
-  title: "SinoYoga"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Sino Yoga"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
-
-editor: visual
-
-format:
-  html:
+    theme: cosmo
     css: style.css
     include-in-header:
       - header.html
