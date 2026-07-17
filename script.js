@@ -41,7 +41,7 @@ form.addEventListener("submit", async function (e) {
     message.style.color = "black";
 
     try {
-        await fetch("https://script.google.com/macros/s/AKfycbxIt1xmspjIb974qIrc4JMjRPN_4kxooG-7Nu2hNdL7Z72UoZFvmsUCa9voJzOECG8NYw/exec", {
+        await fetch("https://script.google.com/macros/s/AKfycbxUv2r-B7YLThXxi7VSDCNdUQ4vvPtq949pEl1wo8Wwe2qwCryVBDN7-xh_DVOR5v9CiA/exec", {
             method: "POST",
             body: formData,
             mode: "no-cors"
