@@ -18,11 +18,11 @@ form.addEventListener("submit", async function (e) {
     const nameRegex = /^[A-Za-z\s'-]{2,}$/;
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
-    if (!nameRegex.test(fullName)) {
-        message.textContent = "Please enter a valid full name.";
-        message.style.color = "red";
-        return;
-    }
+    if (!nameRegex.test(firstName) || !nameRegex.test(lastName)) {
+    message.textContent = "Please enter a valid first and last name.";
+    message.style.color = "red";
+    return;
+   }
 
     if (!emailRegex.test(email)) {
         message.textContent = "Please enter a valid email address.";
