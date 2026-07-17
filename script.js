@@ -4,7 +4,7 @@ const message = document.getElementById("formMessage");
 form.addEventListener("submit", async function (e) {
     e.preventDefault();
 
-    const firstName = form.elements["firstNameName"].value.trim();
+    const firstName = form.elements["firstName"].value.trim();
     const lastName = form.elements["lastName"].value.trim();
     const email = form.elements["email"].value.trim();
     const language = form.elements["language"].value;
